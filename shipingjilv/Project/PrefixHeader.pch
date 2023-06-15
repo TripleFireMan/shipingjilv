@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  VideoRecords
+//
+//  Created by chengyan on 2023/6/3.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#import <YYKit/YYKit.h>
+#import <Masonry/Masonry.h>
+#import "VRDB.h"
+#import "Video.h"
+#import "shipingjilv-Swift.h"
+#import <CYKit/CYKit.h>
+#endif /* PrefixHeader_pch */
